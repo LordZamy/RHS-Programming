@@ -10,6 +10,7 @@ Slides and Code for the RHS Programming Club.
 * [CodeChef](https://www.codechef.com/)
 * [TopCoder](https://arena.topcoder.com/)
 * [Sphere Online Judge](http://www.spoj.com/)
+* [Project Euler](https://projecteuler.net/)
 
 ## Algorithm Tutorials
 * [Topcoder Data Science](https://www.topcoder.com/community/data-science/data-science-tutorials/)
