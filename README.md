@@ -1,6 +1,9 @@
 # RHS Programming
 Slides and Code for the RHS Programming Club.
 
+## Schedule
+Check out upcoming dates for important events [here.](https://www.google.com/calendar/embed?src=osgra6d2242frsu5o5g0sthr90%40group.calendar.google.com&ctz=America/Chicago)
+
 ## Resources
 * [USACO Training Pages](http://train.usaco.org/usacogate)
 * [Codeforces Contests](http://codeforces.com/contests)
