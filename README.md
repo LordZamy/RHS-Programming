@@ -17,3 +17,4 @@ Slides and Code for the RHS Programming Club.
 * [GeeksForGeeks](http://www.geeksforgeeks.org/)
 * [CodeChef Tutorials](https://www.codechef.com/wiki/tutorials)
 * [Data Structures and Algorithms List](https://discuss.codechef.com/questions/48877/data-structures-and-algorithms)
+* [Stanford Introduction to Competitive Programming](http://web.stanford.edu/class/cs97si/)
