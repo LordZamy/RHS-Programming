@@ -18,3 +18,4 @@ Slides and Code for the RHS Programming Club.
 * [CodeChef Tutorials](https://www.codechef.com/wiki/tutorials)
 * [Data Structures and Algorithms List](https://discuss.codechef.com/questions/48877/data-structures-and-algorithms)
 * [Stanford Introduction to Competitive Programming](http://web.stanford.edu/class/cs97si/)
+* [MIT OCW 6.006 Introduction to Algorithms Fall 2011 Lectures](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/)
