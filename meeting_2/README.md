@@ -6,4 +6,5 @@ Getting started with CTFs.
 
 ## Resources
 * [PicoCTF 2014](https://picoctf.com)
+* [PicoCTF 2013](https://2013.picoctf.com)
 
